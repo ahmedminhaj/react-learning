@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "R4JQUUK5DCQGKEQ16GVFGPD1NMWBVH71",
+      "name": "fakha",
+      "email": "faka@mail.com"
+    },
+    {
+      "id": "SY0WVYA758AIHSQB8PPGESVBC3LMUOIM",
+      "name": "baka",
+      "email": "baka@mail.com"
+    },
+    {
+      "id": "SO8ED7UYWXHUUYTL3JWI84RJSTODIB93",
+      "name": "taku",
+      "email": "taku@mail.com"
+    },
+    {
+      "id": "S26I2IUF169ALJW0NLSXBNEFQF63IJD4",
+      "name": "laca ",
+      "email": "laca@mail.com"
+    },
+    {
+      "id": "VTE3O7PJQXOWUFVMCYF3Q7IP1SN64QM9",
+      "name": "saka",
+      "email": "saka@mail.com"
+    },
+    {
+      "id": "JRW2W6C8COQI85BI2FS9LALG1S3FV6LN",
+      "name": "xakha",
+      "email": "saka@mail.com"
+    },
+    {
+      "id": "WOUE8HCVUUBPL13FU9JPUSKXDKJ9EWB7",
+      "name": "jakkas",
+      "email": "jakkas@mail.com"
+    }
+  ]
+}
